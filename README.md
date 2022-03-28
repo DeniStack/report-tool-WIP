@@ -1,2 +1,2 @@
 # report-tool
-A reportil tool using dash plotly with flask
+A reporting tool using dash plotly with flask
